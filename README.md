@@ -2,6 +2,10 @@
 
 Ferramenta para detectar e avaliar candidaturas laranjas.
 
+## Demo
+
+![Demo em SP](https://raw.githubusercontent.com/pmarkun/carlotapresente/master/doc/plot.png)
+
 ## Critérios
 
 1.	Possuir um e-mail válido -> TSE Base Candidatos
